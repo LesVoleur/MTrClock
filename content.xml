@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="mtr_clock" name="mtr_clock" description="Local computer time in the centre of the HUD messages footer. Prototype." author="MTr" version="1" save="false" date="2026-10-21">
+  <text language="7" name="mtr_clock" description="Местное время компьютера по центру полосы сообщений. Прототип." author="MTr"/>
+</content>
